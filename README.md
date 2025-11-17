@@ -9,7 +9,7 @@ A modern, animated landing page for Rimigo - an AI-powered travel planning platf
 
 ## 🚀 Live Demo
 
-**[View Live Site](https://your-deployment-url-here.vercel.app)** _(Replace with your actual deployment URL)_
+**[View Live Site](https://rimigo-redesign.vercel.app/)**
 
 ## 📋 Table of Contents
 
