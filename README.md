@@ -2,7 +2,7 @@
 
 A modern, animated landing page for Rimigo - an AI-powered travel planning platform that makes vacation planning effortless.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://your-deployment-url-here.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://rimigo-redesign.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16.0-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38bdf8)](https://tailwindcss.com/)
@@ -204,32 +204,6 @@ npm run type-check   # Run TypeScript compiler check
 - **circular-gallery** - Rotating image carousel
 - **glass-calendar** - Glass-morphism date picker
 - **stacking-card** - Scroll-triggered stacking animation
-
-## 🌐 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import your repository on [Vercel](https://vercel.com)
-3. Vercel will auto-detect Next.js and deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/rimigo-landing)
-
-### Other Platforms
-
-- **Netlify** - Connect your repo and deploy
-- **AWS Amplify** - Use the Amplify Console
-- **Railway** - One-click deployment
-
-### Build Command
-
-```bash
-npm run build
-```
-
-### Environment Variables
-
-No environment variables required for basic deployment.
 
 ## 🎨 Customization
 
